@@ -5,6 +5,10 @@ This is a simple command line Ruby application to search data from json files an
 Provided data => tickets.json, users.json and organization.json. 
 All json files are included in the repo in '/data/json' folder.
 
+## System Requirements
+- Ruby version >= 2.3.0
+- Bundler version > 2
+
 ## Setup Instructions
 - Clone the repo
 - Run `bundle install` from the root directory to install dependencies
