@@ -6,7 +6,7 @@ Provided data => tickets.json, users.json and organization.json.
 All json files are included in the repo in '/data/json' folder.
 
 ## System Requirements
-- Ruby version >= 2.3.0
+- Ruby version >= 2.7.0
 - Bundler version > 2
 
 ## Setup Instructions
