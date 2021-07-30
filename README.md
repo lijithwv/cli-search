@@ -1,4 +1,4 @@
-# Zendesk Search CLI Application
+# CLI Search Application
 
 ## Introduction
 This is a simple command line Ruby application to search data from json files and return the results in a human readable format.
